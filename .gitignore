@@ -3,3 +3,6 @@ iris_venv/
 
 # Ignore Jupyter checkpoint files
 **/.ipynb_checkpoints/
+
+#Ignore large file
+exercises/4_ML_exercise/HIGGS.csv
