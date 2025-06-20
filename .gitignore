@@ -6,3 +6,5 @@ iris_venv/
 
 #Ignore large file
 exercises/4_ML_exercise/HIGGS.csv
+exercises/3_py4HEP_ScikitHEP/SMHiggsToZZTo4L.root.1
+data/
